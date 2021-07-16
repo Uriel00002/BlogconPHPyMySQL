@@ -3,7 +3,7 @@
 define('RUTA' , 'http://localhost/blog/');
 
 $bd_config = array( 
-    'basedatos' => 'blog_practica',
+    'basedatos' => 'blog-practica',
     'usuario' => 'root',
     'pass' => ''
 );
